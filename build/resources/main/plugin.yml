@@ -1,0 +1,6 @@
+name: PillarsOfFortune
+version: '1.0'
+main: it.scopped.pillarsOfFortune.POF
+api-version: '1.20'
+load: POSTWORLD
+author: Scopped_
